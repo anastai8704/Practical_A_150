@@ -11,10 +11,10 @@
 ## 🏫 Logos
 
 ### University: UTU
-![UTU Logo](images/utu_logo.png)
+![UTU Logo](imagesP5/utu_logo.png)
 
 ### Department: SRIMCA
-![SRIMCA Logo](images/srimca_logo.png)
+![SRIMCA Logo](imagesP5/srimca_logo.png)
 
 ---
 
