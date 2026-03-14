@@ -1,5 +1,6 @@
 # Practical 2 - Task 1
 # Right Half Pyramid Pattern
+
 # Practical 8 - Dynamic Right Half Pyramid
 
 symbol = input("Enter symbol: ")
