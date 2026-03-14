@@ -1,0 +1,3 @@
+NAME = Tai Mahmad Anas Rais Ahmad
+MY ENROLL = 202504104610150
+"This is my Practical 2"
