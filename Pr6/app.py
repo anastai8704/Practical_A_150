@@ -1,0 +1,1 @@
+print("Practical 6: Docker container is running successfully!")
